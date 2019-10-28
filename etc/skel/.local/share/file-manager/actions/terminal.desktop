@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Action
+Tooltip=Open Qterminal
+Name=Open Qterminal
+Profiles=profile-one;
+Icon=utilities-terminal
+
+
+[X-Action-Profile profile-one]
+MimeTypes=inode/directory;
+Exec=qterminal -w %f
+Name=Default profile

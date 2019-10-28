@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=compton
+Name=compton
+Type=Application
+Version=1.0

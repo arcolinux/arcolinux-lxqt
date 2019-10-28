@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Action
+Tooltip=Open in New Window
+Name=Open in new window
+Profiles=profile-one;
+Icon=folder
+
+
+[X-Action-Profile profile-one]
+MimeTypes=inode/directory;
+Exec=thunar %f
+Name=Default profile
