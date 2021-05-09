@@ -26,20 +26,14 @@
 </menu>
 
 <menu id="apps-term-menu" label="Terminals">
-  <item label="termite">
-    <action name="Execute"><command>qterminal</command></action>
-  </item>  
-  <item label="qterminal">
-    <action name="Execute"><command>qterminal</command></action>
-  </item>  
-  <item label="Rxvt Unicode">
+  <item label="Urxvt">
     <action name="Execute">
       <command>urxvt</command>
     </action>
   </item>
-  <item label="Xterm">
-    <action name="Execute"><command>xterm</command></action>
-  </item>
+  <item label="Qterminal">
+    <action name="Execute"><command>qterminal</command></action>
+  </item>  
 </menu>
 
 <menu id="apps-net-menu" label="Internet">
