@@ -16,10 +16,10 @@
 <menu id="apps-editors-menu" label="Editors">
   <item label="Sublime-Text">
     <action name="Execute">
-      <command>subl3</command>
+      <command>subl</command>
       <startupnotify>
         <enabled>yes</enabled>
-        <wmclass>Subl3</wmclass>
+        <wmclass>Subl</wmclass>
       </startupnotify>
     </action>
   </item>
@@ -33,7 +33,7 @@
   </item>
   <item label="Qterminal">
     <action name="Execute"><command>qterminal</command></action>
-  </item>  
+  </item>
 </menu>
 
 <menu id="apps-net-menu" label="Internet">
