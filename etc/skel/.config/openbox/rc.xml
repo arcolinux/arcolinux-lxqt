@@ -42,7 +42,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Arc-Dark</name>
+    <name>Arc-Dawn-Dark</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -364,7 +364,7 @@
         <width>50%</width>
       </action>
     </keybind>
-   <keybind key="W-KP_1">
+    <keybind key="W-KP_1">
       <action name="UnmaximizeFull"/>
       <action name="MoveResizeTo">
         <x>0</x>
