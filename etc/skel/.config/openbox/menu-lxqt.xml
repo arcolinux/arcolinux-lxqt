@@ -26,9 +26,9 @@
 </menu>
 
 <menu id="apps-term-menu" label="Terminals">
-  <item label="Urxvt">
+  <item label="Alacritty">
     <action name="Execute">
-      <command>urxvt</command>
+      <command>alacritty</command>
     </action>
   </item>
   <item label="Qterminal">
